@@ -32,6 +32,8 @@ a{
     justify-content: end;
     align-items: center;
     margin: 0% 20% 0% 0%;
+    text-decoration: none;
+    font-size: x-large;
 }
 
 .dark{
